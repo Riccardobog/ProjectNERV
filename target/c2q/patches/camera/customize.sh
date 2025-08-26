@@ -53,7 +53,6 @@ LOG_STEP_IN "- Adding stock camera libs"
 BLOBS_LIST="
 system/etc/public.libraries-arcsoft.txt
 system/etc/public.libraries-camera.samsung.txt
-system/lib/libSlowShutter_jni.media.samsung.so
 system/lib64/libFaceRestoration.camera.samsung.so
 system/lib64/libFace_Landmark_Engine.camera.samsung.so
 system/lib64/libFacialStickerEngine.arcsoft.so
@@ -65,7 +64,6 @@ system/lib64/libMultiFrameProcessing30.camera.samsung.so
 system/lib64/libMultiFrameProcessing30.snapwrapper.camera.samsung.so
 system/lib64/libMultiFrameProcessing30Tuning.camera.samsung.so
 system/lib64/libPortraitDistortionCorrection.arcsoft.so
-system/lib64/libSlowShutter_jni.media.samsung.so
 system/lib64/libSwIsp_core.camera.samsung.so
 system/lib64/libSwIsp_wrapper_v1.camera.samsung.so
 system/lib64/libhigh_dynamic_range.arcsoft.so
